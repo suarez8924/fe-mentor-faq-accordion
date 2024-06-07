@@ -51,7 +51,11 @@ const FaqItem = ({
     >
       <button className="faq-cta">
         <h2 className="question">{question}</h2>
-        <img className="cta-icon" src={isExpanded ? iconMinus : iconPlus} />
+        <img
+          className="cta-icon"
+          src={isExpanded ? iconMinus : iconPlus}
+          alt=""
+        />
       </button>
       <div
         className="answer-container"

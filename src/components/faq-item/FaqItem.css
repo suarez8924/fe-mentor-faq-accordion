@@ -9,6 +9,7 @@
     gap: 2.4rem;
     text-align: start;
     cursor: pointer;
+    color: currentColor;
 
     &:hover,
     &:focus-visible {
