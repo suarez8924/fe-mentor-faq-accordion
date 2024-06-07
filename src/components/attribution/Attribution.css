@@ -1,0 +1,7 @@
+.attribution {
+  position: absolute;
+  bottom: 0;
+  padding: 2rem;
+  color: var(--color-black);
+  text-align: center;
+}
