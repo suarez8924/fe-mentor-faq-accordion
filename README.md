@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://github.com/suarez8924/fe-mentor-social-link-profile)
-- Live Site URL: [Live Site](https://fe-mentor-social-link-profile-js.netlify.app)
+- Solution URL: [Link](https://github.com/suarez8924/fe-mentor-faq-accordion)
+- Live Site URL: [Live Site](https://fe-mentor-faq-accordion-javier.netlify.app/)
 
 ## My process
 
