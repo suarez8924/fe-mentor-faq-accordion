@@ -4,4 +4,4 @@ type FaqItemData = {
   answer: string;
 };
 
-export { FaqItemData };
+export type { FaqItemData };
