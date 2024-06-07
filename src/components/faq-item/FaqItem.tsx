@@ -50,7 +50,7 @@ const FaqItem = ({
       onFocus={handleFocus}
     >
       <button className="faq-cta">
-        <h2 className="question">{question}</h2>
+        <span className="question">{question}</span>
         <img
           className="cta-icon"
           src={isExpanded ? iconMinus : iconPlus}
