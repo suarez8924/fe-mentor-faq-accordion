@@ -1,0 +1,50 @@
+:root {
+  font-family: 'Work Sans', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Colors */
+
+  --color-white: #fff;
+  --color-black: #000;
+  --color-light-pink: #f8eeff;
+  --color-grayish-purple: #8b6990;
+  --color-dark-purple: #301534;
+  --color-pink: #ad28eb;
+
+  /* breakpoints */
+  --breakpoint-tablet: '768px';
+  --breakpoint-desktop: '1024px';
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 1.6rem;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
